@@ -48,8 +48,8 @@ Create `MySet` class using `OrderedArray` to store only unique elements.
    - `Set & Set` → intersection of two sets.
 4. Test with multiple sets and verify union and intersection results.
 
-**Screenshot:**  
-Include a screenshot showing:
+<img width="1522" height="785" alt="image" src="https://github.com/user-attachments/assets/211f3c04-854f-4ec2-ac5e-a76e333ba202" />
+
 
 
 ---
@@ -68,6 +68,5 @@ Process CSV files to identify unique and common leads based on phone numbers.
 4. Handle missing files gracefully.
 5. Output results to console or CSV.
 
-**Screenshot:**  
-Include a screenshot showing CSV processing:
+<img width="1527" height="785" alt="image" src="https://github.com/user-attachments/assets/311524e1-5724-4ddc-951e-ce91c7d27679" />
 
