@@ -1,0 +1,14 @@
+# Ignore build output 
+*.obj 
+*.exe 
+*.pdb 
+*.idb 
+*.ipch 
+Debug/ 
+Release/ 
+x64/ 
+.vs/ 
+*.vcxproj.user 
+*.suo 
+*.cache 
+*.log 
