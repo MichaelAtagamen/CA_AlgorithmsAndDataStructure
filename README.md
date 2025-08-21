@@ -28,8 +28,8 @@ Implement a templated `OrderedArray` class that stores elements in natural order
    - `void clear()` – empties the array.
 5. Test with different data types: `int`, `float`, `double`, and custom classes with comparison operators.
 
-**Screenshot:**  
-Include a screenshot of the console output showing OrderedArray test:
+<img width="1506" height="637" alt="image" src="https://github.com/user-attachments/assets/77251cbb-1fc3-411c-9d7e-c279f4d6de52" />
+
 
 
 ---
